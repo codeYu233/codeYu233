@@ -14,7 +14,7 @@ I am an undergraduate student in Artificial Intelligence at UESTC, expected to g
 I believe multimodal approaches are key to endowing AI with genuine intelligence by enabling it to perceive and interact with the world in a human-like way. 
 Through this work, I aspire to bring AI closer to reality and push the boundaries of its potential.
 
-<a href="https://passer-by.com/" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=codeYu233&show_icons=true&count_private=false&theme=vue-dark" /></a>
+<a href="https://passer-by.com/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codeYu233&show_icons=true&count_private=false&theme=vue-dark" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codeYu233)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
