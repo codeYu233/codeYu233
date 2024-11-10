@@ -17,8 +17,8 @@ Through this work, I aspire to bring AI closer to reality and push the boundarie
 <br/>
 Below is my philosophical rationale for pursuing this direction:
 <br/>
-[codeYu233](www.codeyu233.life)
-
+[codeYu233]([www.codeyu233.life](https://www.codeyu233.life/))
+<br/>
 <a href="https://passer-by.com/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codeYu233&show_icons=true&count_private=false&theme=vue-dark" /></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codeYu233)](https://github.com/ryo-ma/github-profile-trophy)
