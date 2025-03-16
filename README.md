@@ -10,7 +10,7 @@
 
 ### Hi there 👋
 
-I am an undergraduate student in Artificial Intelligence at UESTC, expected to graduate in 2026. My research interests focus on multimodal learning and large models, aiming to bridge AI and real-world applications. 
+I am an undergraduate student in Artificial Intelligence at UESTC, expected to graduate in 2026. My research interests focus on multimodal learning、large models and embodied artificial intelligence, aiming to bridge AI and real-world applications. 
 I believe multimodal approaches are key to endowing AI with genuine intelligence by enabling it to perceive and interact with the world in a human-like way. 
 Through this work, I aspire to bring AI closer to reality and push the boundaries of its potential.🔭🔭 
 <br/>
