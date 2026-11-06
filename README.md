@@ -1,25 +1,48 @@
 <div align="center">
+  <img src="./assets/header.svg" width="100%" alt="codeYu233 — Change the World!" />
+</div>
 
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://codeyu233.life/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Change the World!&center=true&size=27" />
-    </a>
-  </div>
+<br />
 
+<img align="right" src="./assets/miku.png" width="43%" alt="Hatsune Miku surrounded by watercolor cherry blossoms" />
 
-### Hi there 👋
+### 🌸 Hi there, I'm codeYu233
 
-I am an undergraduate student in Artificial Intelligence at UESTC, expected to graduate in 2026. My research interests focus on multimodal learning、large models and embodied artificial intelligence, aiming to bridge AI and real-world applications. 
-I believe multimodal approaches are key to endowing AI with genuine intelligence by enabling it to perceive and interact with the world in a human-like way. 
-Through this work, I aspire to bring AI closer to reality and push the boundaries of its potential.🔭🔭 
-<br/>
-<br/>
-Below is my philosophical rationale for pursuing this direction:
-<br/>
-[对现今AI的哲学理解和对其未来方向的探究](https://www.codeyu233.life/2024/11/10/%E5%AF%B9%E7%8E%B0%E4%BB%8AAI%E7%9A%84%E5%93%B2%E5%AD%A6%E7%90%86%E8%A7%A3%E5%92%8C%E5%AF%B9%E5%85%B6%E6%9C%AA%E6%9D%A5%E6%96%B9%E5%90%91%E7%9A%84%E6%8E%A2%E7%A9%B6/)
-<br/>
-<br/>
-<a href="https://passer-by.com/" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codeYu233&show_icons=true&count_private=false&theme=vue-dark" /></a>
+An undergraduate student in **Artificial Intelligence at UESTC**, expected to graduate in **2026**.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=codeYu233)](https://github.com/ryo-ma/github-profile-trophy)
+I explore **multimodal learning, large models, and embodied AI**, with the goal of bringing AI closer to the real world.
+
+I believe intelligence grows through perceiving and interacting with the world. My aspiration is to build AI that connects understanding with action.
+
+**Perceive · Understand · Interact**
+
+🌱 [My blog](https://codeyu233.life/) · [GitHub](https://github.com/codeYu233)
+
+<br clear="all" />
+
+### 🌷 A thought behind the journey
+
+Why pursue multimodal and embodied intelligence? Here is my philosophical perspective on AI and its future:
+
+[对现今 AI 的哲学理解和对其未来方向的探究 →](https://www.codeyu233.life/2024/11/10/对现今AI的哲学理解和对其未来方向的探究/)
+
+<br />
+
+<details>
+<summary>🌱 A little about my GitHub activity</summary>
+<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeYu233&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FBFAF6&amp;title_color=3F8F89&amp;icon_color=D99BB7&amp;text_color=687A76" alt="codeYu233 GitHub statistics" />
+</p>
+
+[Explore my repositories →](https://github.com/codeYu233?tab=repositories)
+
+</details>
+
+<br />
+
+<div align="center">
+  <img src="./assets/sakura-furin.gif" width="100%" alt="Mint-green wind chime swaying among falling sakura petals" />
+  <br />
+  <sub>Small steps, a wider world. 🌸</sub>
+</div>
