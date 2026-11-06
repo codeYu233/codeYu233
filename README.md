@@ -4,7 +4,7 @@
 
 <br />
 
-<img align="right" src="./assets/miku.png" width="43%" alt="Hatsune Miku surrounded by cherry blossoms" />
+<img align="right" src="./assets/miku.png" width="43%" alt="Hatsune Miku coding with her little robot companion" />
 
 ### 🌸 Hi there, I'm codeYu233
 
@@ -51,7 +51,7 @@ Why pursue multimodal and embodied intelligence? Here is my philosophical perspe
 <br />
 
 <div align="center">
-  <img src="./assets/garden.svg" width="100%" alt="Sakura musical garden with floating petals" />
+  <img src="./assets/music.svg" width="100%" alt="Mint cassette player and headphones with softly twinkling stars" />
   <br />
   <sub>Small steps, a wider world. 🌸</sub>
 </div>
