@@ -4,7 +4,7 @@
 
 <br />
 
-<img align="right" src="./assets/miku.png" width="43%" alt="Hatsune Miku surrounded by watercolor cherry blossoms" />
+<img align="right" src="./assets/miku.png" width="43%" alt="Hatsune Miku surrounded by cherry blossoms" />
 
 ### 🌸 Hi there, I'm codeYu233
 
@@ -28,11 +28,20 @@ Why pursue multimodal and embodied intelligence? Here is my philosophical perspe
 
 <br />
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codeYu233/codeYu233/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/codeYu233/codeYu233/output/github-contribution-grid-snake.svg" alt="codeYu233 contribution snake — mint and sakura" width="100%" />
+  </picture>
+</div>
+
+<br />
+
 <details>
 <summary>🌱 A little about my GitHub activity</summary>
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeYu233&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FBFAF6&amp;title_color=3F8F89&amp;icon_color=D99BB7&amp;text_color=687A76" alt="codeYu233 GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codeYu233&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=3F8F89&amp;icon_color=D99BB7&amp;text_color=687A76" alt="codeYu233 GitHub statistics" />
 </p>
 
 [Explore my repositories →](https://github.com/codeYu233?tab=repositories)
@@ -42,7 +51,9 @@ Why pursue multimodal and embodied intelligence? Here is my philosophical perspe
 <br />
 
 <div align="center">
-  <img src="./assets/sakura-furin.gif" width="100%" alt="Mint-green wind chime swaying among falling sakura petals" />
+  <img src="./assets/garden.svg" width="100%" alt="Sakura musical garden with floating petals" />
   <br />
   <sub>Small steps, a wider world. 🌸</sub>
 </div>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=codeYu233&amp;label=Profile%20Views&amp;color=39B8AC&amp;style=flat" alt="Profile views" /></p>
